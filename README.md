@@ -76,5 +76,5 @@ OK, look at the tutorial
 重构UI，添加开发日志。
 Reconstruct UI and add development log.
 # 1.6.5
-添加图片资讯，修复已知问题。、
+添加图片资讯，修复已知问题。
 Add image information to fix known issues.
